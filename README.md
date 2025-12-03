@@ -4,6 +4,6 @@
 
 Welcome to **EE5419-ROS** — a repository of my ROS experiments and related documentation.
 
-For a detailed explanation of the project and how to contribute, check out the  [About & Contributing Guide](https://kingbenny101.github.io/EE5419-ROS/about/)
+For a detailed explanation of the project and how to contribute, check out the  [About & Contributing Guide](https://kingbenny101.github.io/iitm-ee5419-ros/about/)
 
-[View the Full Documentation](https://kingbenny101.github.io/EE5419-ROS/)
+[View the Full Documentation](https://kingbenny101.github.io/iitm-ee5419-ros/)
