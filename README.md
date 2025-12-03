@@ -1,6 +1,6 @@
 # EE5419-ROS
 
-[![Docs](https://img.shields.io/badge/docs-available-brightgreen)](https://kingbenny101.github.io/EE5419-ROS/)
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen)](https://kingbenny101.github.io/iitm-ee5419-ros/)
 
 Welcome to **EE5419-ROS** — a repository of my ROS experiments and related documentation.
 
